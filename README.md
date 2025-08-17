@@ -1,6 +1,25 @@
 
 # The Below can install a Task to the Windows Task Scheduler.
+
+Example 1
+<pre>
 schtasks /create /tn "MyTask" /tr "cmd /c start /min notepad.exe" /sc daily /st 09:00 /rl highest
+</pre>
+
+Example 2
+<pre>
+# Define the action (e.g., run Notepad)
+$action = New-ScheduledTaskAction -Execute "notepad.exe"
+
+# Define the trigger (e.g., at logon)
+$trigger = New-ScheduledTaskTrigger -AtLogOn
+
+# Define the settings, including making it Hidden
+$settings = New-ScheduledTaskSettingsSet -Hidden
+
+# Register the task
+Register-ScheduledTask -TaskName "MyHiddenTask" -Action $action -Trigger $trigger -Settings $settings
+</pre>
 
 # Explained
 
