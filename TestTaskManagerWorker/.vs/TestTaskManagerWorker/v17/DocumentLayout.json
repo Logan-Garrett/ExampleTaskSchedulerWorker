@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Logan-SuperPc\\Desktop\\Git\\TestTaskManagerWorker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2E8487-D614-4D3A-B86F-C3B0DB73CFE1}|TestTaskManagerWorker\\TestTaskManagerWorker.csproj|c:\\users\\logan-superpc\\desktop\\git\\testtaskmanagerworker\\testtaskmanagerworker\\testtaskmanagerworker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E2E8487-D614-4D3A-B86F-C3B0DB73CFE1}|TestTaskManagerWorker\\TestTaskManagerWorker.csproj|solutionrelative:testtaskmanagerworker\\testtaskmanagerworker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2E8487-D614-4D3A-B86F-C3B0DB73CFE1}|TestTaskManagerWorker\\TestTaskManagerWorker.csproj|c:\\users\\logan-superpc\\desktop\\git\\testtaskmanagerworker\\testtaskmanagerworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2E8487-D614-4D3A-B86F-C3B0DB73CFE1}|TestTaskManagerWorker\\TestTaskManagerWorker.csproj|solutionrelative:testtaskmanagerworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2D7DAF-8B3F-743E-06A6-7276ED1B8195}|..\\ConfigurationProxy\\ConfigurationProxy.Cache.Api\\Logging.Framework\\Logging.Framework.csproj|c:\\users\\logan-superpc\\desktop\\git\\configurationproxy\\configurationproxy.cache.api\\logging.framework\\logtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestTaskManagerWorker",
+              "DocumentMoniker": "C:\\Users\\Logan-SuperPc\\Desktop\\Git\\TestTaskManagerWorker\\TestTaskManagerWorker\\TestTaskManagerWorker.csproj",
+              "RelativeDocumentMoniker": "TestTaskManagerWorker\\TestTaskManagerWorker.csproj",
+              "ToolTip": "C:\\Users\\Logan-SuperPc\\Desktop\\Git\\TestTaskManagerWorker\\TestTaskManagerWorker\\TestTaskManagerWorker.csproj",
+              "RelativeToolTip": "TestTaskManagerWorker\\TestTaskManagerWorker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-17T16:12:47.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogType.cs",
+              "DocumentMoniker": "C:\\Users\\Logan-SuperPc\\Desktop\\Git\\ConfigurationProxy\\ConfigurationProxy.Cache.Api\\Logging.Framework\\LogType.cs",
+              "RelativeDocumentMoniker": "..\\ConfigurationProxy\\ConfigurationProxy.Cache.Api\\Logging.Framework\\LogType.cs",
+              "ToolTip": "C:\\Users\\Logan-SuperPc\\Desktop\\Git\\ConfigurationProxy\\ConfigurationProxy.Cache.Api\\Logging.Framework\\LogType.cs",
+              "RelativeToolTip": "..\\ConfigurationProxy\\ConfigurationProxy.Cache.Api\\Logging.Framework\\LogType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T15:51:59.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Logan-SuperPc\\Desktop\\Git\\TestTaskManagerWorker\\TestTaskManagerWorker\\Program.cs",
+              "RelativeDocumentMoniker": "TestTaskManagerWorker\\Program.cs",
+              "ToolTip": "C:\\Users\\Logan-SuperPc\\Desktop\\Git\\TestTaskManagerWorker\\TestTaskManagerWorker\\Program.cs",
+              "RelativeToolTip": "TestTaskManagerWorker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T15:48:28.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
